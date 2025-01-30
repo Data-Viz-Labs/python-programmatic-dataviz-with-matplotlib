@@ -10,13 +10,13 @@ These materials cover fundamental concepts of data visualization using Python's 
 
 Click on the links below to open the notebooks directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/Chapter%203.2%20-%20Python%20and%20Matplotlib.ipynb) Chapter 3.2 - Python and Matplotlib  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-matplotlib/blob/main/Chapter_3_2_Python_and_Matplotlib.ipynb) Chapter 3.2 - Python and Matplotlib  
 *Introduction to basic Matplotlib concepts and fundamentals*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/Chapter%203.2.1%20-%20Python%20and%20Matplotlib%20Workshop%20(Replicate).ipynb) Chapter 3.2.1 - Python and Matplotlib Workshop (Replicate)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-matplotlib/blob/main/Chapter%203.2.1%20-%20Python%20and%20Matplotlib%20Workshop%20(Replicate).ipynb) Chapter 3.2.1 - Python and Matplotlib Workshop (Replicate)  
 *Practice exercises to replicate various types of plots and charts*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/Chapter%203.2.2%20-%20Python%20and%20Matplotlib%20Workshop%20(Super%20Store).ipynb) Chapter 3.2.2 - Python and Matplotlib Workshop (Super Store)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-matplotlib/blob/main/Chapter%203.2.2%20-%20Python%20and%20Matplotlib%20Workshop%20(Super%20Store).ipynb) Chapter 3.2.2 - Python and Matplotlib Workshop (Super Store)  
 *Real-world data visualization exercises using the Super Store dataset*
 
 ## Getting Started
