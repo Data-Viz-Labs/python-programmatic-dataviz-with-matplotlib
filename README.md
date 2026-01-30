@@ -19,6 +19,9 @@ Click on the links below to open the notebooks directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-matplotlib/blob/main/Chapter_3_2_2_Python_and_Matplotlib_Workshop_(Super_Store).ipynb) Chapter 3.2.2 - Python and Matplotlib Workshop (Super Store)  
 *Real-world data visualization exercises using the Super Store dataset*
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-matplotlib/blob/main/Chapter_3_2_3_Python_and_Matplotlib_Workshop_(100x_datavizproject).ipynb) Chapter 3.2.3 - Python and Matplotlib Workshop (100x_datavizproject)  
+*Replicate-and-extend exercises inspired by 100.datavizproject.com using a minimal dataset*
+
 ## Getting Started
 
 1. Click on any of the "Open in Colab" badges above to open the notebook in Google Colab
